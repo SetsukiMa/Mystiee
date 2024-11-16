@@ -1,0 +1,4 @@
+repository "MystieTheCatBard@adygames26@cloud"
+  path "/"
+    br "/main"
+    co "/main"
